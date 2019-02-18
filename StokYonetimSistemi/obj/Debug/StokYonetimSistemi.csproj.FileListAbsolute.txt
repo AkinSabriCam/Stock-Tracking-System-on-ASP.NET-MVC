@@ -1,0 +1,410 @@
+C:\Users\Akın\Desktop\StokYonetimSistemi\StokYonetimSistemi\obj\Debug\StokYonetimSistemi.csprojResolveAssemblyReference.cache
+C:\Users\Akın\Desktop\StokYonetimSistemi\StokYonetimSistemi\obj\Debug\StokYonetimSistemi.csproj.CoreCompileInputs.cache
+C:\Users\Akın\Desktop\StokYonetimSistemi\StokYonetimSistemi\bin\StokYonetimSistemi.dll.config
+C:\Users\Akın\Desktop\StokYonetimSistemi\StokYonetimSistemi\bin\StokYonetimSistemi.dll
+C:\Users\Akın\Desktop\StokYonetimSistemi\StokYonetimSistemi\bin\StokYonetimSistemi.pdb
+C:\Users\Akın\Desktop\StokYonetimSistemi\StokYonetimSistemi\bin\roslyn\csc.exe
+C:\Users\Akın\Desktop\StokYonetimSistemi\StokYonetimSistemi\bin\roslyn\csc.exe.config
+C:\Users\Akın\Desktop\StokYonetimSistemi\StokYonetimSistemi\bin\roslyn\csc.rsp
+C:\Users\Akın\Desktop\StokYonetimSistemi\StokYonetimSistemi\bin\roslyn\csi.exe
+C:\Users\Akın\Desktop\StokYonetimSistemi\StokYonetimSistemi\bin\roslyn\csi.exe.config
+C:\Users\Akın\Desktop\StokYonetimSistemi\StokYonetimSistemi\bin\roslyn\csi.rsp
+C:\Users\Akın\Desktop\StokYonetimSistemi\StokYonetimSistemi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Akın\Desktop\StokYonetimSistemi\StokYonetimSistemi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Akın\Desktop\StokYonetimSistemi\StokYonetimSistemi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Akın\Desktop\StokYonetimSistemi\StokYonetimSistemi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Akın\Desktop\StokYonetimSistemi\StokYonetimSistemi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Akın\Desktop\StokYonetimSistemi\StokYonetimSistemi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Akın\Desktop\StokYonetimSistemi\StokYonetimSistemi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Akın\Desktop\StokYonetimSistemi\StokYonetimSistemi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Akın\Desktop\StokYonetimSistemi\StokYonetimSistemi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Akın\Desktop\StokYonetimSistemi\StokYonetimSistemi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Akın\Desktop\StokYonetimSistemi\StokYonetimSistemi\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Akın\Desktop\StokYonetimSistemi\StokYonetimSistemi\bin\roslyn\System.AppContext.dll
+C:\Users\Akın\Desktop\StokYonetimSistemi\StokYonetimSistemi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Akın\Desktop\StokYonetimSistemi\StokYonetimSistemi\bin\roslyn\System.Console.dll
+C:\Users\Akın\Desktop\StokYonetimSistemi\StokYonetimSistemi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Akın\Desktop\StokYonetimSistemi\StokYonetimSistemi\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Akın\Desktop\StokYonetimSistemi\StokYonetimSistemi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Akın\Desktop\StokYonetimSistemi\StokYonetimSistemi\bin\roslyn\System.IO.Compression.dll
+C:\Users\Akın\Desktop\StokYonetimSistemi\StokYonetimSistemi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Akın\Desktop\StokYonetimSistemi\StokYonetimSistemi\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Akın\Desktop\StokYonetimSistemi\StokYonetimSistemi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Akın\Desktop\StokYonetimSistemi\StokYonetimSistemi\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Akın\Desktop\StokYonetimSistemi\StokYonetimSistemi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Akın\Desktop\StokYonetimSistemi\StokYonetimSistemi\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Akın\Desktop\StokYonetimSistemi\StokYonetimSistemi\bin\roslyn\System.Security.Claims.dll
+C:\Users\Akın\Desktop\StokYonetimSistemi\StokYonetimSistemi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Akın\Desktop\StokYonetimSistemi\StokYonetimSistemi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Akın\Desktop\StokYonetimSistemi\StokYonetimSistemi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Akın\Desktop\StokYonetimSistemi\StokYonetimSistemi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Akın\Desktop\StokYonetimSistemi\StokYonetimSistemi\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Akın\Desktop\StokYonetimSistemi\StokYonetimSistemi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Akın\Desktop\StokYonetimSistemi\StokYonetimSistemi\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Akın\Desktop\StokYonetimSistemi\StokYonetimSistemi\bin\roslyn\System.ValueTuple.dll
+C:\Users\Akın\Desktop\StokYonetimSistemi\StokYonetimSistemi\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Akın\Desktop\StokYonetimSistemi\StokYonetimSistemi\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Akın\Desktop\StokYonetimSistemi\StokYonetimSistemi\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Akın\Desktop\StokYonetimSistemi\StokYonetimSistemi\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Akın\Desktop\StokYonetimSistemi\StokYonetimSistemi\bin\roslyn\vbc.exe
+C:\Users\Akın\Desktop\StokYonetimSistemi\StokYonetimSistemi\bin\roslyn\vbc.exe.config
+C:\Users\Akın\Desktop\StokYonetimSistemi\StokYonetimSistemi\bin\roslyn\vbc.rsp
+C:\Users\Akın\Desktop\StokYonetimSistemi\StokYonetimSistemi\bin\roslyn\VBCSCompiler.exe
+C:\Users\Akın\Desktop\StokYonetimSistemi\StokYonetimSistemi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Akın\Desktop\StokYonetimSistemi\StokYonetimSistemi\bin\EntityFramework.dll
+C:\Users\Akın\Desktop\StokYonetimSistemi\StokYonetimSistemi\bin\EntityFramework.SqlServer.dll
+C:\Users\Akın\Desktop\StokYonetimSistemi\StokYonetimSistemi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Akın\Desktop\StokYonetimSistemi\StokYonetimSistemi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Akın\Desktop\StokYonetimSistemi\StokYonetimSistemi\bin\System.Web.Helpers.dll
+C:\Users\Akın\Desktop\StokYonetimSistemi\StokYonetimSistemi\bin\System.Web.Mvc.dll
+C:\Users\Akın\Desktop\StokYonetimSistemi\StokYonetimSistemi\bin\System.Web.Razor.dll
+C:\Users\Akın\Desktop\StokYonetimSistemi\StokYonetimSistemi\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Akın\Desktop\StokYonetimSistemi\StokYonetimSistemi\bin\System.Web.Webpages.dll
+C:\Users\Akın\Desktop\StokYonetimSistemi\StokYonetimSistemi\bin\System.Web.Webpages.Razor.dll
+C:\Users\Akın\Desktop\StokYonetimSistemi\StokYonetimSistemi\bin\EntityFramework.xml
+C:\Users\Akın\Desktop\StokYonetimSistemi\StokYonetimSistemi\bin\EntityFramework.SqlServer.xml
+C:\Users\Akın\Desktop\StokYonetimSistemi\StokYonetimSistemi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Akın\Desktop\StokYonetimSistemi\StokYonetimSistemi\bin\System.Web.Razor.xml
+C:\Users\Akın\Desktop\StokYonetimSistemi\StokYonetimSistemi\bin\System.Web.Webpages.xml
+C:\Users\Akın\Desktop\StokYonetimSistemi\StokYonetimSistemi\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Akın\Desktop\StokYonetimSistemi\StokYonetimSistemi\bin\System.Web.Webpages.Razor.xml
+C:\Users\Akın\Desktop\StokYonetimSistemi\StokYonetimSistemi\bin\System.Web.Helpers.xml
+C:\Users\Akın\Desktop\StokYonetimSistemi\StokYonetimSistemi\bin\System.Web.Mvc.xml
+C:\Users\Akın\Desktop\StokYonetimSistemi\StokYonetimSistemi\obj\Debug\StokYonetimSistemi.csproj.CopyComplete
+C:\Users\Akın\Desktop\StokYonetimSistemi\StokYonetimSistemi\obj\Debug\StokYonetimSistemi.dll
+C:\Users\Akın\Desktop\StokYonetimSistemi\StokYonetimSistemi\obj\Debug\StokYonetimSistemi.pdb
+C:\Users\Akın\Desktop\StokYonetimSistemi\StokYonetimSistemi\bin\Antlr3.Runtime.dll
+C:\Users\Akın\Desktop\StokYonetimSistemi\StokYonetimSistemi\bin\Newtonsoft.Json.dll
+C:\Users\Akın\Desktop\StokYonetimSistemi\StokYonetimSistemi\bin\System.Web.Optimization.dll
+C:\Users\Akın\Desktop\StokYonetimSistemi\StokYonetimSistemi\bin\WebGrease.dll
+C:\Users\Akın\Desktop\StokYonetimSistemi\StokYonetimSistemi\bin\Antlr3.Runtime.pdb
+C:\Users\Akın\Desktop\StokYonetimSistemi\StokYonetimSistemi\bin\Newtonsoft.Json.xml
+C:\Users\Akın\Desktop\StokYonetimSistemi\StokYonetimSistemi\bin\System.Web.Optimization.xml
+C:\Users\Akın\Desktop\StokYonetimSistemi - Kopya\StokYonetimSistemi\bin\StokYonetimSistemi.dll.config
+C:\Users\Akın\Desktop\StokYonetimSistemi - Kopya\StokYonetimSistemi\bin\StokYonetimSistemi.dll
+C:\Users\Akın\Desktop\StokYonetimSistemi - Kopya\StokYonetimSistemi\bin\StokYonetimSistemi.pdb
+C:\Users\Akın\Desktop\StokYonetimSistemi - Kopya\StokYonetimSistemi\bin\roslyn\csc.exe
+C:\Users\Akın\Desktop\StokYonetimSistemi - Kopya\StokYonetimSistemi\bin\roslyn\csc.exe.config
+C:\Users\Akın\Desktop\StokYonetimSistemi - Kopya\StokYonetimSistemi\bin\roslyn\csc.rsp
+C:\Users\Akın\Desktop\StokYonetimSistemi - Kopya\StokYonetimSistemi\bin\roslyn\csi.exe
+C:\Users\Akın\Desktop\StokYonetimSistemi - Kopya\StokYonetimSistemi\bin\roslyn\csi.exe.config
+C:\Users\Akın\Desktop\StokYonetimSistemi - Kopya\StokYonetimSistemi\bin\roslyn\csi.rsp
+C:\Users\Akın\Desktop\StokYonetimSistemi - Kopya\StokYonetimSistemi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Akın\Desktop\StokYonetimSistemi - Kopya\StokYonetimSistemi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Akın\Desktop\StokYonetimSistemi - Kopya\StokYonetimSistemi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Akın\Desktop\StokYonetimSistemi - Kopya\StokYonetimSistemi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Akın\Desktop\StokYonetimSistemi - Kopya\StokYonetimSistemi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Akın\Desktop\StokYonetimSistemi - Kopya\StokYonetimSistemi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Akın\Desktop\StokYonetimSistemi - Kopya\StokYonetimSistemi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Akın\Desktop\StokYonetimSistemi - Kopya\StokYonetimSistemi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Akın\Desktop\StokYonetimSistemi - Kopya\StokYonetimSistemi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Akın\Desktop\StokYonetimSistemi - Kopya\StokYonetimSistemi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Akın\Desktop\StokYonetimSistemi - Kopya\StokYonetimSistemi\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Akın\Desktop\StokYonetimSistemi - Kopya\StokYonetimSistemi\bin\roslyn\System.AppContext.dll
+C:\Users\Akın\Desktop\StokYonetimSistemi - Kopya\StokYonetimSistemi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Akın\Desktop\StokYonetimSistemi - Kopya\StokYonetimSistemi\bin\roslyn\System.Console.dll
+C:\Users\Akın\Desktop\StokYonetimSistemi - Kopya\StokYonetimSistemi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Akın\Desktop\StokYonetimSistemi - Kopya\StokYonetimSistemi\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Akın\Desktop\StokYonetimSistemi - Kopya\StokYonetimSistemi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Akın\Desktop\StokYonetimSistemi - Kopya\StokYonetimSistemi\bin\roslyn\System.IO.Compression.dll
+C:\Users\Akın\Desktop\StokYonetimSistemi - Kopya\StokYonetimSistemi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Akın\Desktop\StokYonetimSistemi - Kopya\StokYonetimSistemi\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Akın\Desktop\StokYonetimSistemi - Kopya\StokYonetimSistemi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Akın\Desktop\StokYonetimSistemi - Kopya\StokYonetimSistemi\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Akın\Desktop\StokYonetimSistemi - Kopya\StokYonetimSistemi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Akın\Desktop\StokYonetimSistemi - Kopya\StokYonetimSistemi\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Akın\Desktop\StokYonetimSistemi - Kopya\StokYonetimSistemi\bin\roslyn\System.Security.Claims.dll
+C:\Users\Akın\Desktop\StokYonetimSistemi - Kopya\StokYonetimSistemi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Akın\Desktop\StokYonetimSistemi - Kopya\StokYonetimSistemi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Akın\Desktop\StokYonetimSistemi - Kopya\StokYonetimSistemi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Akın\Desktop\StokYonetimSistemi - Kopya\StokYonetimSistemi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Akın\Desktop\StokYonetimSistemi - Kopya\StokYonetimSistemi\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Akın\Desktop\StokYonetimSistemi - Kopya\StokYonetimSistemi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Akın\Desktop\StokYonetimSistemi - Kopya\StokYonetimSistemi\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Akın\Desktop\StokYonetimSistemi - Kopya\StokYonetimSistemi\bin\roslyn\System.ValueTuple.dll
+C:\Users\Akın\Desktop\StokYonetimSistemi - Kopya\StokYonetimSistemi\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Akın\Desktop\StokYonetimSistemi - Kopya\StokYonetimSistemi\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Akın\Desktop\StokYonetimSistemi - Kopya\StokYonetimSistemi\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Akın\Desktop\StokYonetimSistemi - Kopya\StokYonetimSistemi\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Akın\Desktop\StokYonetimSistemi - Kopya\StokYonetimSistemi\bin\roslyn\vbc.exe
+C:\Users\Akın\Desktop\StokYonetimSistemi - Kopya\StokYonetimSistemi\bin\roslyn\vbc.exe.config
+C:\Users\Akın\Desktop\StokYonetimSistemi - Kopya\StokYonetimSistemi\bin\roslyn\vbc.rsp
+C:\Users\Akın\Desktop\StokYonetimSistemi - Kopya\StokYonetimSistemi\bin\roslyn\VBCSCompiler.exe
+C:\Users\Akın\Desktop\StokYonetimSistemi - Kopya\StokYonetimSistemi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Akın\Desktop\StokYonetimSistemi - Kopya\StokYonetimSistemi\bin\Antlr3.Runtime.dll
+C:\Users\Akın\Desktop\StokYonetimSistemi - Kopya\StokYonetimSistemi\bin\EntityFramework.dll
+C:\Users\Akın\Desktop\StokYonetimSistemi - Kopya\StokYonetimSistemi\bin\EntityFramework.SqlServer.dll
+C:\Users\Akın\Desktop\StokYonetimSistemi - Kopya\StokYonetimSistemi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Akın\Desktop\StokYonetimSistemi - Kopya\StokYonetimSistemi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Akın\Desktop\StokYonetimSistemi - Kopya\StokYonetimSistemi\bin\Newtonsoft.Json.dll
+C:\Users\Akın\Desktop\StokYonetimSistemi - Kopya\StokYonetimSistemi\bin\System.Web.Helpers.dll
+C:\Users\Akın\Desktop\StokYonetimSistemi - Kopya\StokYonetimSistemi\bin\System.Web.Mvc.dll
+C:\Users\Akın\Desktop\StokYonetimSistemi - Kopya\StokYonetimSistemi\bin\System.Web.Optimization.dll
+C:\Users\Akın\Desktop\StokYonetimSistemi - Kopya\StokYonetimSistemi\bin\System.Web.Razor.dll
+C:\Users\Akın\Desktop\StokYonetimSistemi - Kopya\StokYonetimSistemi\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Akın\Desktop\StokYonetimSistemi - Kopya\StokYonetimSistemi\bin\System.Web.Webpages.dll
+C:\Users\Akın\Desktop\StokYonetimSistemi - Kopya\StokYonetimSistemi\bin\System.Web.Webpages.Razor.dll
+C:\Users\Akın\Desktop\StokYonetimSistemi - Kopya\StokYonetimSistemi\bin\WebGrease.dll
+C:\Users\Akın\Desktop\StokYonetimSistemi - Kopya\StokYonetimSistemi\bin\Antlr3.Runtime.pdb
+C:\Users\Akın\Desktop\StokYonetimSistemi - Kopya\StokYonetimSistemi\bin\EntityFramework.xml
+C:\Users\Akın\Desktop\StokYonetimSistemi - Kopya\StokYonetimSistemi\bin\EntityFramework.SqlServer.xml
+C:\Users\Akın\Desktop\StokYonetimSistemi - Kopya\StokYonetimSistemi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Akın\Desktop\StokYonetimSistemi - Kopya\StokYonetimSistemi\bin\Newtonsoft.Json.xml
+C:\Users\Akın\Desktop\StokYonetimSistemi - Kopya\StokYonetimSistemi\bin\System.Web.Optimization.xml
+C:\Users\Akın\Desktop\StokYonetimSistemi - Kopya\StokYonetimSistemi\bin\System.Web.Razor.xml
+C:\Users\Akın\Desktop\StokYonetimSistemi - Kopya\StokYonetimSistemi\bin\System.Web.Webpages.xml
+C:\Users\Akın\Desktop\StokYonetimSistemi - Kopya\StokYonetimSistemi\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Akın\Desktop\StokYonetimSistemi - Kopya\StokYonetimSistemi\bin\System.Web.Webpages.Razor.xml
+C:\Users\Akın\Desktop\StokYonetimSistemi - Kopya\StokYonetimSistemi\bin\System.Web.Helpers.xml
+C:\Users\Akın\Desktop\StokYonetimSistemi - Kopya\StokYonetimSistemi\bin\System.Web.Mvc.xml
+C:\Users\Akın\Desktop\StokYonetimSistemi - Kopya\StokYonetimSistemi\obj\Debug\StokYonetimSistemi.csproj.CoreCompileInputs.cache
+C:\Users\Akın\Desktop\StokYonetimSistemi - Kopya\StokYonetimSistemi\obj\Debug\StokYonetimSistemi.csproj.CopyComplete
+C:\Users\Akın\Desktop\StokYonetimSistemi - Kopya\StokYonetimSistemi\obj\Debug\StokYonetimSistemi.dll
+C:\Users\Akın\Desktop\StokYonetimSistemi - Kopya\StokYonetimSistemi\obj\Debug\StokYonetimSistemi.pdb
+C:\Users\Akın\Desktop\StokYonetimSistemi - Kopya\StokYonetimSistemi\obj\Debug\StokYonetimSistemi.csprojResolveAssemblyReference.cache
+C:\Users\Akın\Desktop\StokYonetimSistemiProject\StokYonetimSistemi\bin\StokYonetimSistemi.dll.config
+C:\Users\Akın\Desktop\StokYonetimSistemiProject\StokYonetimSistemi\bin\StokYonetimSistemi.dll
+C:\Users\Akın\Desktop\StokYonetimSistemiProject\StokYonetimSistemi\bin\StokYonetimSistemi.pdb
+C:\Users\Akın\Desktop\StokYonetimSistemiProject\StokYonetimSistemi\bin\roslyn\csc.exe
+C:\Users\Akın\Desktop\StokYonetimSistemiProject\StokYonetimSistemi\bin\roslyn\csc.exe.config
+C:\Users\Akın\Desktop\StokYonetimSistemiProject\StokYonetimSistemi\bin\roslyn\csc.rsp
+C:\Users\Akın\Desktop\StokYonetimSistemiProject\StokYonetimSistemi\bin\roslyn\csi.exe
+C:\Users\Akın\Desktop\StokYonetimSistemiProject\StokYonetimSistemi\bin\roslyn\csi.exe.config
+C:\Users\Akın\Desktop\StokYonetimSistemiProject\StokYonetimSistemi\bin\roslyn\csi.rsp
+C:\Users\Akın\Desktop\StokYonetimSistemiProject\StokYonetimSistemi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Akın\Desktop\StokYonetimSistemiProject\StokYonetimSistemi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Akın\Desktop\StokYonetimSistemiProject\StokYonetimSistemi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Akın\Desktop\StokYonetimSistemiProject\StokYonetimSistemi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Akın\Desktop\StokYonetimSistemiProject\StokYonetimSistemi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Akın\Desktop\StokYonetimSistemiProject\StokYonetimSistemi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Akın\Desktop\StokYonetimSistemiProject\StokYonetimSistemi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Akın\Desktop\StokYonetimSistemiProject\StokYonetimSistemi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Akın\Desktop\StokYonetimSistemiProject\StokYonetimSistemi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Akın\Desktop\StokYonetimSistemiProject\StokYonetimSistemi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Akın\Desktop\StokYonetimSistemiProject\StokYonetimSistemi\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Akın\Desktop\StokYonetimSistemiProject\StokYonetimSistemi\bin\roslyn\System.AppContext.dll
+C:\Users\Akın\Desktop\StokYonetimSistemiProject\StokYonetimSistemi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Akın\Desktop\StokYonetimSistemiProject\StokYonetimSistemi\bin\roslyn\System.Console.dll
+C:\Users\Akın\Desktop\StokYonetimSistemiProject\StokYonetimSistemi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Akın\Desktop\StokYonetimSistemiProject\StokYonetimSistemi\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Akın\Desktop\StokYonetimSistemiProject\StokYonetimSistemi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Akın\Desktop\StokYonetimSistemiProject\StokYonetimSistemi\bin\roslyn\System.IO.Compression.dll
+C:\Users\Akın\Desktop\StokYonetimSistemiProject\StokYonetimSistemi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Akın\Desktop\StokYonetimSistemiProject\StokYonetimSistemi\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Akın\Desktop\StokYonetimSistemiProject\StokYonetimSistemi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Akın\Desktop\StokYonetimSistemiProject\StokYonetimSistemi\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Akın\Desktop\StokYonetimSistemiProject\StokYonetimSistemi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Akın\Desktop\StokYonetimSistemiProject\StokYonetimSistemi\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Akın\Desktop\StokYonetimSistemiProject\StokYonetimSistemi\bin\roslyn\System.Security.Claims.dll
+C:\Users\Akın\Desktop\StokYonetimSistemiProject\StokYonetimSistemi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Akın\Desktop\StokYonetimSistemiProject\StokYonetimSistemi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Akın\Desktop\StokYonetimSistemiProject\StokYonetimSistemi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Akın\Desktop\StokYonetimSistemiProject\StokYonetimSistemi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Akın\Desktop\StokYonetimSistemiProject\StokYonetimSistemi\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Akın\Desktop\StokYonetimSistemiProject\StokYonetimSistemi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Akın\Desktop\StokYonetimSistemiProject\StokYonetimSistemi\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Akın\Desktop\StokYonetimSistemiProject\StokYonetimSistemi\bin\roslyn\System.ValueTuple.dll
+C:\Users\Akın\Desktop\StokYonetimSistemiProject\StokYonetimSistemi\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Akın\Desktop\StokYonetimSistemiProject\StokYonetimSistemi\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Akın\Desktop\StokYonetimSistemiProject\StokYonetimSistemi\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Akın\Desktop\StokYonetimSistemiProject\StokYonetimSistemi\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Akın\Desktop\StokYonetimSistemiProject\StokYonetimSistemi\bin\roslyn\vbc.exe
+C:\Users\Akın\Desktop\StokYonetimSistemiProject\StokYonetimSistemi\bin\roslyn\vbc.exe.config
+C:\Users\Akın\Desktop\StokYonetimSistemiProject\StokYonetimSistemi\bin\roslyn\vbc.rsp
+C:\Users\Akın\Desktop\StokYonetimSistemiProject\StokYonetimSistemi\bin\roslyn\VBCSCompiler.exe
+C:\Users\Akın\Desktop\StokYonetimSistemiProject\StokYonetimSistemi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Akın\Desktop\StokYonetimSistemiProject\StokYonetimSistemi\bin\Antlr3.Runtime.dll
+C:\Users\Akın\Desktop\StokYonetimSistemiProject\StokYonetimSistemi\bin\EntityFramework.dll
+C:\Users\Akın\Desktop\StokYonetimSistemiProject\StokYonetimSistemi\bin\EntityFramework.SqlServer.dll
+C:\Users\Akın\Desktop\StokYonetimSistemiProject\StokYonetimSistemi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Akın\Desktop\StokYonetimSistemiProject\StokYonetimSistemi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Akın\Desktop\StokYonetimSistemiProject\StokYonetimSistemi\bin\Newtonsoft.Json.dll
+C:\Users\Akın\Desktop\StokYonetimSistemiProject\StokYonetimSistemi\bin\System.Web.Helpers.dll
+C:\Users\Akın\Desktop\StokYonetimSistemiProject\StokYonetimSistemi\bin\System.Web.Mvc.dll
+C:\Users\Akın\Desktop\StokYonetimSistemiProject\StokYonetimSistemi\bin\System.Web.Optimization.dll
+C:\Users\Akın\Desktop\StokYonetimSistemiProject\StokYonetimSistemi\bin\System.Web.Razor.dll
+C:\Users\Akın\Desktop\StokYonetimSistemiProject\StokYonetimSistemi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Akın\Desktop\StokYonetimSistemiProject\StokYonetimSistemi\bin\System.Web.WebPages.dll
+C:\Users\Akın\Desktop\StokYonetimSistemiProject\StokYonetimSistemi\bin\System.Web.WebPages.Razor.dll
+C:\Users\Akın\Desktop\StokYonetimSistemiProject\StokYonetimSistemi\bin\WebGrease.dll
+C:\Users\Akın\Desktop\StokYonetimSistemiProject\StokYonetimSistemi\bin\Antlr3.Runtime.pdb
+C:\Users\Akın\Desktop\StokYonetimSistemiProject\StokYonetimSistemi\bin\EntityFramework.xml
+C:\Users\Akın\Desktop\StokYonetimSistemiProject\StokYonetimSistemi\bin\EntityFramework.SqlServer.xml
+C:\Users\Akın\Desktop\StokYonetimSistemiProject\StokYonetimSistemi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Akın\Desktop\StokYonetimSistemiProject\StokYonetimSistemi\bin\Newtonsoft.Json.xml
+C:\Users\Akın\Desktop\StokYonetimSistemiProject\StokYonetimSistemi\bin\System.Web.Helpers.xml
+C:\Users\Akın\Desktop\StokYonetimSistemiProject\StokYonetimSistemi\bin\System.Web.Mvc.xml
+C:\Users\Akın\Desktop\StokYonetimSistemiProject\StokYonetimSistemi\bin\System.Web.Optimization.xml
+C:\Users\Akın\Desktop\StokYonetimSistemiProject\StokYonetimSistemi\bin\System.Web.Razor.xml
+C:\Users\Akın\Desktop\StokYonetimSistemiProject\StokYonetimSistemi\bin\System.Web.WebPages.xml
+C:\Users\Akın\Desktop\StokYonetimSistemiProject\StokYonetimSistemi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Akın\Desktop\StokYonetimSistemiProject\StokYonetimSistemi\bin\System.Web.WebPages.Razor.xml
+C:\Users\Akın\Desktop\StokYonetimSistemiProject\StokYonetimSistemi\obj\Debug\StokYonetimSistemi.csprojResolveAssemblyReference.cache
+C:\Users\Akın\Desktop\StokYonetimSistemiProject\StokYonetimSistemi\obj\Debug\StokYonetimSistemi.csproj.CoreCompileInputs.cache
+C:\Users\Akın\Desktop\StokYonetimSistemiProject\StokYonetimSistemi\obj\Debug\StokYonetimSistemi.csproj.CopyComplete
+C:\Users\Akın\Desktop\StokYonetimSistemiProject\StokYonetimSistemi\obj\Debug\StokYonetimSistemi.dll
+C:\Users\Akın\Desktop\StokYonetimSistemiProject\StokYonetimSistemi\obj\Debug\StokYonetimSistemi.pdb
+D:\StokYonetimSistemiProject\StokYonetimSistemi\bin\StokYonetimSistemi.dll.config
+D:\StokYonetimSistemiProject\StokYonetimSistemi\bin\StokYonetimSistemi.dll
+D:\StokYonetimSistemiProject\StokYonetimSistemi\bin\StokYonetimSistemi.pdb
+D:\StokYonetimSistemiProject\StokYonetimSistemi\bin\roslyn\csc.exe
+D:\StokYonetimSistemiProject\StokYonetimSistemi\bin\roslyn\csc.exe.config
+D:\StokYonetimSistemiProject\StokYonetimSistemi\bin\roslyn\csc.rsp
+D:\StokYonetimSistemiProject\StokYonetimSistemi\bin\roslyn\csi.exe
+D:\StokYonetimSistemiProject\StokYonetimSistemi\bin\roslyn\csi.exe.config
+D:\StokYonetimSistemiProject\StokYonetimSistemi\bin\roslyn\csi.rsp
+D:\StokYonetimSistemiProject\StokYonetimSistemi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\StokYonetimSistemiProject\StokYonetimSistemi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\StokYonetimSistemiProject\StokYonetimSistemi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\StokYonetimSistemiProject\StokYonetimSistemi\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\StokYonetimSistemiProject\StokYonetimSistemi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\StokYonetimSistemiProject\StokYonetimSistemi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\StokYonetimSistemiProject\StokYonetimSistemi\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\StokYonetimSistemiProject\StokYonetimSistemi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\StokYonetimSistemiProject\StokYonetimSistemi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\StokYonetimSistemiProject\StokYonetimSistemi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\StokYonetimSistemiProject\StokYonetimSistemi\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\StokYonetimSistemiProject\StokYonetimSistemi\bin\roslyn\System.AppContext.dll
+D:\StokYonetimSistemiProject\StokYonetimSistemi\bin\roslyn\System.Collections.Immutable.dll
+D:\StokYonetimSistemiProject\StokYonetimSistemi\bin\roslyn\System.Console.dll
+D:\StokYonetimSistemiProject\StokYonetimSistemi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\StokYonetimSistemiProject\StokYonetimSistemi\bin\roslyn\System.Diagnostics.Process.dll
+D:\StokYonetimSistemiProject\StokYonetimSistemi\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\StokYonetimSistemiProject\StokYonetimSistemi\bin\roslyn\System.IO.Compression.dll
+D:\StokYonetimSistemiProject\StokYonetimSistemi\bin\roslyn\System.IO.FileSystem.dll
+D:\StokYonetimSistemiProject\StokYonetimSistemi\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\StokYonetimSistemiProject\StokYonetimSistemi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\StokYonetimSistemiProject\StokYonetimSistemi\bin\roslyn\System.IO.Pipes.dll
+D:\StokYonetimSistemiProject\StokYonetimSistemi\bin\roslyn\System.Reflection.Metadata.dll
+D:\StokYonetimSistemiProject\StokYonetimSistemi\bin\roslyn\System.Security.AccessControl.dll
+D:\StokYonetimSistemiProject\StokYonetimSistemi\bin\roslyn\System.Security.Claims.dll
+D:\StokYonetimSistemiProject\StokYonetimSistemi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\StokYonetimSistemiProject\StokYonetimSistemi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\StokYonetimSistemiProject\StokYonetimSistemi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\StokYonetimSistemiProject\StokYonetimSistemi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\StokYonetimSistemiProject\StokYonetimSistemi\bin\roslyn\System.Security.Principal.Windows.dll
+D:\StokYonetimSistemiProject\StokYonetimSistemi\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\StokYonetimSistemiProject\StokYonetimSistemi\bin\roslyn\System.Threading.Thread.dll
+D:\StokYonetimSistemiProject\StokYonetimSistemi\bin\roslyn\System.ValueTuple.dll
+D:\StokYonetimSistemiProject\StokYonetimSistemi\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\StokYonetimSistemiProject\StokYonetimSistemi\bin\roslyn\System.Xml.XmlDocument.dll
+D:\StokYonetimSistemiProject\StokYonetimSistemi\bin\roslyn\System.Xml.XPath.dll
+D:\StokYonetimSistemiProject\StokYonetimSistemi\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\StokYonetimSistemiProject\StokYonetimSistemi\bin\roslyn\vbc.exe
+D:\StokYonetimSistemiProject\StokYonetimSistemi\bin\roslyn\vbc.exe.config
+D:\StokYonetimSistemiProject\StokYonetimSistemi\bin\roslyn\vbc.rsp
+D:\StokYonetimSistemiProject\StokYonetimSistemi\bin\roslyn\VBCSCompiler.exe
+D:\StokYonetimSistemiProject\StokYonetimSistemi\bin\roslyn\VBCSCompiler.exe.config
+D:\StokYonetimSistemiProject\StokYonetimSistemi\bin\Antlr3.Runtime.dll
+D:\StokYonetimSistemiProject\StokYonetimSistemi\bin\EntityFramework.dll
+D:\StokYonetimSistemiProject\StokYonetimSistemi\bin\EntityFramework.SqlServer.dll
+D:\StokYonetimSistemiProject\StokYonetimSistemi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\StokYonetimSistemiProject\StokYonetimSistemi\bin\Microsoft.Web.Infrastructure.dll
+D:\StokYonetimSistemiProject\StokYonetimSistemi\bin\Newtonsoft.Json.dll
+D:\StokYonetimSistemiProject\StokYonetimSistemi\bin\System.Web.Helpers.dll
+D:\StokYonetimSistemiProject\StokYonetimSistemi\bin\System.Web.Mvc.dll
+D:\StokYonetimSistemiProject\StokYonetimSistemi\bin\System.Web.Optimization.dll
+D:\StokYonetimSistemiProject\StokYonetimSistemi\bin\System.Web.Razor.dll
+D:\StokYonetimSistemiProject\StokYonetimSistemi\bin\System.Web.WebPages.Deployment.dll
+D:\StokYonetimSistemiProject\StokYonetimSistemi\bin\System.Web.WebPages.dll
+D:\StokYonetimSistemiProject\StokYonetimSistemi\bin\System.Web.WebPages.Razor.dll
+D:\StokYonetimSistemiProject\StokYonetimSistemi\bin\WebGrease.dll
+D:\StokYonetimSistemiProject\StokYonetimSistemi\bin\Antlr3.Runtime.pdb
+D:\StokYonetimSistemiProject\StokYonetimSistemi\bin\EntityFramework.xml
+D:\StokYonetimSistemiProject\StokYonetimSistemi\bin\EntityFramework.SqlServer.xml
+D:\StokYonetimSistemiProject\StokYonetimSistemi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\StokYonetimSistemiProject\StokYonetimSistemi\bin\Newtonsoft.Json.xml
+D:\StokYonetimSistemiProject\StokYonetimSistemi\bin\System.Web.Helpers.xml
+D:\StokYonetimSistemiProject\StokYonetimSistemi\bin\System.Web.Mvc.xml
+D:\StokYonetimSistemiProject\StokYonetimSistemi\bin\System.Web.Optimization.xml
+D:\StokYonetimSistemiProject\StokYonetimSistemi\bin\System.Web.Razor.xml
+D:\StokYonetimSistemiProject\StokYonetimSistemi\bin\System.Web.WebPages.xml
+D:\StokYonetimSistemiProject\StokYonetimSistemi\bin\System.Web.WebPages.Deployment.xml
+D:\StokYonetimSistemiProject\StokYonetimSistemi\bin\System.Web.WebPages.Razor.xml
+D:\StokYonetimSistemiProject\StokYonetimSistemi\obj\Debug\StokYonetimSistemi.csprojResolveAssemblyReference.cache
+D:\StokYonetimSistemiProject\StokYonetimSistemi\obj\Debug\StokYonetimSistemi.csproj.CoreCompileInputs.cache
+D:\StokYonetimSistemiProject\StokYonetimSistemi\obj\Debug\StokYonetimSistemi.csproj.CopyComplete
+D:\StokYonetimSistemiProject\StokYonetimSistemi\obj\Debug\StokYonetimSistemi.dll
+D:\StokYonetimSistemiProject\StokYonetimSistemi\obj\Debug\StokYonetimSistemi.pdb
+C:\Users\Akın\Desktop\StokYonetimSistemi\obj\Debug\StokYonetimSistemi.dll
+C:\Users\Akın\Desktop\StokYonetimSistemi\obj\Debug\StokYonetimSistemi.pdb
+C:\Users\Akın\Desktop\StokYonetimSistemi\bin\StokYonetimSistemi.dll.config
+C:\Users\Akın\Desktop\StokYonetimSistemi\bin\StokYonetimSistemi.dll
+C:\Users\Akın\Desktop\StokYonetimSistemi\bin\StokYonetimSistemi.pdb
+C:\Users\Akın\Desktop\StokYonetimSistemi\bin\roslyn\csc.exe
+C:\Users\Akın\Desktop\StokYonetimSistemi\bin\roslyn\csc.exe.config
+C:\Users\Akın\Desktop\StokYonetimSistemi\bin\roslyn\csc.rsp
+C:\Users\Akın\Desktop\StokYonetimSistemi\bin\roslyn\csi.exe
+C:\Users\Akın\Desktop\StokYonetimSistemi\bin\roslyn\csi.exe.config
+C:\Users\Akın\Desktop\StokYonetimSistemi\bin\roslyn\csi.rsp
+C:\Users\Akın\Desktop\StokYonetimSistemi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Akın\Desktop\StokYonetimSistemi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Akın\Desktop\StokYonetimSistemi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Akın\Desktop\StokYonetimSistemi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Akın\Desktop\StokYonetimSistemi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Akın\Desktop\StokYonetimSistemi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Akın\Desktop\StokYonetimSistemi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Akın\Desktop\StokYonetimSistemi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Akın\Desktop\StokYonetimSistemi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Akın\Desktop\StokYonetimSistemi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Akın\Desktop\StokYonetimSistemi\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Akın\Desktop\StokYonetimSistemi\bin\roslyn\System.AppContext.dll
+C:\Users\Akın\Desktop\StokYonetimSistemi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Akın\Desktop\StokYonetimSistemi\bin\roslyn\System.Console.dll
+C:\Users\Akın\Desktop\StokYonetimSistemi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Akın\Desktop\StokYonetimSistemi\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Akın\Desktop\StokYonetimSistemi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Akın\Desktop\StokYonetimSistemi\bin\roslyn\System.IO.Compression.dll
+C:\Users\Akın\Desktop\StokYonetimSistemi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Akın\Desktop\StokYonetimSistemi\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Akın\Desktop\StokYonetimSistemi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Akın\Desktop\StokYonetimSistemi\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Akın\Desktop\StokYonetimSistemi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Akın\Desktop\StokYonetimSistemi\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Akın\Desktop\StokYonetimSistemi\bin\roslyn\System.Security.Claims.dll
+C:\Users\Akın\Desktop\StokYonetimSistemi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Akın\Desktop\StokYonetimSistemi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Akın\Desktop\StokYonetimSistemi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Akın\Desktop\StokYonetimSistemi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Akın\Desktop\StokYonetimSistemi\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Akın\Desktop\StokYonetimSistemi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Akın\Desktop\StokYonetimSistemi\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Akın\Desktop\StokYonetimSistemi\bin\roslyn\System.ValueTuple.dll
+C:\Users\Akın\Desktop\StokYonetimSistemi\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Akın\Desktop\StokYonetimSistemi\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Akın\Desktop\StokYonetimSistemi\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Akın\Desktop\StokYonetimSistemi\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Akın\Desktop\StokYonetimSistemi\bin\roslyn\vbc.exe
+C:\Users\Akın\Desktop\StokYonetimSistemi\bin\roslyn\vbc.exe.config
+C:\Users\Akın\Desktop\StokYonetimSistemi\bin\roslyn\vbc.rsp
+C:\Users\Akın\Desktop\StokYonetimSistemi\bin\roslyn\VBCSCompiler.exe
+C:\Users\Akın\Desktop\StokYonetimSistemi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Akın\Desktop\StokYonetimSistemi\bin\Antlr3.Runtime.dll
+C:\Users\Akın\Desktop\StokYonetimSistemi\bin\EntityFramework.dll
+C:\Users\Akın\Desktop\StokYonetimSistemi\bin\EntityFramework.SqlServer.dll
+C:\Users\Akın\Desktop\StokYonetimSistemi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Akın\Desktop\StokYonetimSistemi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Akın\Desktop\StokYonetimSistemi\bin\Newtonsoft.Json.dll
+C:\Users\Akın\Desktop\StokYonetimSistemi\bin\System.Web.Helpers.dll
+C:\Users\Akın\Desktop\StokYonetimSistemi\bin\System.Web.Mvc.dll
+C:\Users\Akın\Desktop\StokYonetimSistemi\bin\System.Web.Optimization.dll
+C:\Users\Akın\Desktop\StokYonetimSistemi\bin\System.Web.Razor.dll
+C:\Users\Akın\Desktop\StokYonetimSistemi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Akın\Desktop\StokYonetimSistemi\bin\System.Web.WebPages.dll
+C:\Users\Akın\Desktop\StokYonetimSistemi\bin\System.Web.WebPages.Razor.dll
+C:\Users\Akın\Desktop\StokYonetimSistemi\bin\WebGrease.dll
+C:\Users\Akın\Desktop\StokYonetimSistemi\bin\Antlr3.Runtime.pdb
+C:\Users\Akın\Desktop\StokYonetimSistemi\bin\EntityFramework.xml
+C:\Users\Akın\Desktop\StokYonetimSistemi\bin\EntityFramework.SqlServer.xml
+C:\Users\Akın\Desktop\StokYonetimSistemi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Akın\Desktop\StokYonetimSistemi\bin\Newtonsoft.Json.xml
+C:\Users\Akın\Desktop\StokYonetimSistemi\bin\System.Web.Helpers.xml
+C:\Users\Akın\Desktop\StokYonetimSistemi\bin\System.Web.Mvc.xml
+C:\Users\Akın\Desktop\StokYonetimSistemi\bin\System.Web.Optimization.xml
+C:\Users\Akın\Desktop\StokYonetimSistemi\bin\System.Web.Razor.xml
+C:\Users\Akın\Desktop\StokYonetimSistemi\bin\System.Web.WebPages.xml
+C:\Users\Akın\Desktop\StokYonetimSistemi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Akın\Desktop\StokYonetimSistemi\bin\System.Web.WebPages.Razor.xml
+C:\Users\Akın\Desktop\StokYonetimSistemi\obj\Debug\StokYonetimSistemi.csprojResolveAssemblyReference.cache
+C:\Users\Akın\Desktop\StokYonetimSistemi\obj\Debug\StokYonetimSistemi.csproj.CoreCompileInputs.cache
+C:\Users\Akın\Desktop\StokYonetimSistemi\obj\Debug\StokYonetimSistemi.csproj.CopyComplete

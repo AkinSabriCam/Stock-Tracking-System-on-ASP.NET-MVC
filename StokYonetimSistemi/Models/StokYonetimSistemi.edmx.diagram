@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="4eeccf2b4ec441f9a886d6cb7bd76650" Name="Diagram1">
+        <EntityTypeShape EntityType="StokYonetimModel.sysdiagrams" Width="1.5" PointX="7.75" PointY="7.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="StokYonetimModel.tblAtikKontrol" Width="1.5" PointX="7.5" PointY="4.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="StokYonetimModel.tblDepartman" Width="1.5" PointX="3" PointY="8.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="StokYonetimModel.tblKullanıcı" Width="1.5" PointX="7.5" PointY="11.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="StokYonetimModel.tblParcaTipi" Width="1.5" PointX="0.75" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="StokYonetimModel.tblPersonel" Width="1.5" PointX="5.25" PointY="8.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="StokYonetimModel.tblRole" Width="1.5" PointX="5.25" PointY="11.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="StokYonetimModel.tblStok" Width="1.5" PointX="5.25" PointY="1.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="StokYonetimModel.tblUrun" Width="1.5" PointX="5.25" PointY="4.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="StokYonetimModel.tblUrunGenel" Width="1.5" PointX="3" PointY="2.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="StokYonetimModel.tblZimmet" Width="1.5" PointX="7.875" PointY="1.875" IsExpanded="true" />
+        <AssociationConnector Association="StokYonetimModel.FK_tblAtikKontrol_tblUrun" ManuallyRouted="false" />
+        <AssociationConnector Association="StokYonetimModel.FK_tblPersonel_tblDepartman" ManuallyRouted="false" />
+        <AssociationConnector Association="StokYonetimModel.FK_tblRole_tblDepartman" ManuallyRouted="false" />
+        <AssociationConnector Association="StokYonetimModel.FK_tblKullanıcı_tblRole" ManuallyRouted="false" />
+        <AssociationConnector Association="StokYonetimModel.FK_tblUrunGenel_tblParcaTipi" ManuallyRouted="false" />
+        <AssociationConnector Association="StokYonetimModel.FK_tblZimmet_tblPersonel" ManuallyRouted="false" />
+        <AssociationConnector Association="StokYonetimModel.FK_tblStok_tblUrunGenel" ManuallyRouted="false" />
+        <AssociationConnector Association="StokYonetimModel.FK_tblUrun_tblUrunGenel" ManuallyRouted="false" />
+        <AssociationConnector Association="StokYonetimModel.FK_tblZimmet_tblUrun" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

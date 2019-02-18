@@ -1,0 +1,15 @@
+﻿<html>
+<head>
+</head>
+@using System.Web.Optimization
+@Scripts.Render("~/BundlesLayout/Script")
+@Styles.Render("~/BundlesLayout/Style")
+@RenderSection("scripts", false)
+<body class="Layoutbackground">
+    @Html.Partial("_Navbar")
+    <div class="container  icerikbackground">
+        @RenderBody()
+    </div>
+
+</body>
+</html>
